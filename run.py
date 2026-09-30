@@ -66,6 +66,7 @@ notifications = {
         'SovStructureSelfDestructRequested',
         'SovStructureSelfDestructFinished',
         'StationConquerMsg',
+        'EntosisCaptureStarted',
     ]
 }
 
